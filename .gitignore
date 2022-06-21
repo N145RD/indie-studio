@@ -1,0 +1,13 @@
+*.o
+Cmake/build
+a.out
+indie
+_deps/
+CMakeFiles/
+CMakeCache.txt
+*.swp
+Makefile
+*.cmake
+bomberman
+vgcore.*
+.vscode/
